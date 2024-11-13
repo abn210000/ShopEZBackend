@@ -6,5 +6,6 @@
     "express": "^4.21.1",
     "jsonwebtoken": "^9.0.2",
     "mssql": "^11.0.1"
+    "express-validator": "^7.0.1" // this for input validation
   }
 }
